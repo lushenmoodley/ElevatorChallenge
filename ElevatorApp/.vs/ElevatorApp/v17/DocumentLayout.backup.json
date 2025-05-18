@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\ElevatorChallenge\\ElevatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD8E4433-F921-459E-A0DD-13C3BBDDC90F}|..\\ElevatorApp.Test\\ElevatorApp.Test.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\elevatorchallenge\\elevatorapp.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F03B527F-F7AB-4B52-8A60-6FE67141FA70}|ElevatorApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\elevatorchallenge\\elevatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03B527F-F7AB-4B52-8A60-6FE67141FA70}|ElevatorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8E4433-F921-459E-A0DD-13C3BBDDC90F}|..\\ElevatorApp.Test\\ElevatorApp.Test.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\elevatorchallenge\\elevatorapp.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD8E4433-F921-459E-A0DD-13C3BBDDC90F}|..\\ElevatorApp.Test\\ElevatorApp.Test.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\elevatorchallenge\\elevatorapp.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,20 +24,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Test1.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\ElevatorChallenge\\ElevatorApp.Test\\Test1.cs",
               "RelativeDocumentMoniker": "..\\ElevatorApp.Test\\Test1.cs",
               "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\ElevatorChallenge\\ElevatorApp.Test\\Test1.cs",
               "RelativeToolTip": "..\\ElevatorApp.Test\\Test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T13:33:57.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T13:33:57.505Z"
             },
             {
               "$type": "Document",
@@ -65,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\ElevatorChallenge\\ElevatorApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\ElevatorChallenge\\ElevatorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T13:32:01.661Z",
               "EditorCaption": ""
