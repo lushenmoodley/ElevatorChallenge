@@ -1,0 +1,15 @@
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\bin\Debug\net8.0\ElevatorApp.exe
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\bin\Debug\net8.0\ElevatorApp.deps.json
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\bin\Debug\net8.0\ElevatorApp.runtimeconfig.json
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\bin\Debug\net8.0\ElevatorApp.dll
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\bin\Debug\net8.0\ElevatorApp.pdb
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.AssemblyInfoInputs.cache
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.AssemblyInfo.cs
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.csproj.CoreCompileInputs.cache
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.sourcelink.json
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.dll
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\refint\ElevatorApp.dll
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.pdb
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ElevatorApp.genruntimeconfig.cache
+C:\Users\lushe\OneDrive\Documents\C# Projects\ElevatorChallenge\ElevatorApp\obj\Debug\net8.0\ref\ElevatorApp.dll
