@@ -38,7 +38,7 @@ public class Program
 
                 if (elevator == null)
                 {
-                    Console.WriteLine("⚠️ No elevator available that can carry this load.");
+                    Console.WriteLine(" No elevator available that can carry this load.");
                 }
                 else
                 {
